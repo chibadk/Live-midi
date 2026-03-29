@@ -1,0 +1,1 @@
+"""UI Components - PyQt6 GUI"""
