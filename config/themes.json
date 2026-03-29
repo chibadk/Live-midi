@@ -1,0 +1,9 @@
+{
+    "themes": [
+        {
+            "name": "Dark",
+            "background": "#000000",
+            "foreground": "#FFFFFF"
+        }
+    ]
+}

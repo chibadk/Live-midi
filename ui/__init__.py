@@ -1,1 +1,1 @@
-"""UI Components - PyQt6 GUI"""
+# UI package marker

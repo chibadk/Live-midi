@@ -1,0 +1,8 @@
+{
+    "instruments": {
+        "Roland SC-88": {
+            "type": "synthesizer",
+            "sounds": ["piano", "guitar", "drums"]
+        }
+    }
+}
