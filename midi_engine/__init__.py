@@ -1,0 +1,1 @@
+"""MIDI Engine - Handles MIDI I/O and sequencing"""
